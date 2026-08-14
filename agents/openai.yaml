@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speech Generation Enhanced"
+  short_description: "Generate reliable narrated audio from text"
+  default_prompt: "Use $speech-enhanced to generate or batch spoken audio with the appropriate voice, delivery, format, and validation safeguards."
